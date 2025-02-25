@@ -11,7 +11,7 @@ Explain what software engineering is and discuss its importance in the technolog
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-       1. The Birth of Structured Programming (1960s-1970s)
+      1. The Birth of Structured Programming (1960s-1970s)
 Before structured programming, software development was largely unorganized, leading to inefficient and error-prone code. The introduction of structured programming, championed by figures like Edsger Dijkstra, emphasized the use of control structures such as loops and conditionals instead of arbitrary "goto" statements. This shift made programs more readable, maintainable, and reliable, laying the foundation for modern software development practices.
 
 2. The Emergence of Object-Oriented Programming (OOP) (1980s-1990s)
